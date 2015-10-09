@@ -28,7 +28,7 @@ shuhei kinukawa(@kinushu)
 
 + 結構あるな、、、
 + web上で作成できそうなのたくさんありますが、ローカルで実行できるもの…
-+ reveal.js
++ reveal.js というのがあった。
 
 ---
 
@@ -43,7 +43,7 @@ https://github.com/hakimel/reveal.js/
 
 ## このプレゼンのためにやったこと
 
-1.コード落とす（zipファイルで可）
+1.コード落とす（zipファイルでも可）
 
 ```
 git clone git@github.com:hakimel/reveal.js.git 20151008presen
