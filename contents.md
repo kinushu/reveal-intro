@@ -90,6 +90,12 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 
 pythonか…
 
+```
+$ php -S localhost:8000
+PHP 5.5.27 Development Server started at Fri Oct  9 15:53:25 2015
+```
+
+phpか…
 
 ---
 
@@ -108,7 +114,8 @@ http://localhost:8000/
 
 ## 利点
 
-+ テキストベースでばっと書ける（あまり体裁を凝らなくていい場合）
++ （あまり体裁を凝らなくていい場合）テキストベースでばっと書ける
++ (内容優先で書ける)
 + テキストベースなのでgit管理しやすい
 + webブラウザで表示できる。
 
